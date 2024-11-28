@@ -1,5 +1,5 @@
 
-# Simple To-Do List App
+# To-Do List App
 
 A basic To-Do List app built using Flutter.
 
