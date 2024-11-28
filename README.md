@@ -8,7 +8,6 @@ A basic To-Do List app built using Flutter.
 - **Delete tasks**.
 
 ## Installation
+1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/flutter_todo_list_app.git
-   flutter pub get
-   flutter run
